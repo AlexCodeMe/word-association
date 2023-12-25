@@ -13,15 +13,11 @@ const App = () => {
 
     const options = {
     method: 'GET',
-    url: 'https://twinword-word-association-quiz.p.rapidapi.com/type1/',
+    url: 'http://localhost:8000/results',
     params: {
       level: chosenLevel,
       area: 'sat'
     },
-    headers: {
-      'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KEY,
-      'X-RapidAPI-Host': 'twinword-word-association-quiz.p.rapidapi.com'
-    }
     }
 
     try {
