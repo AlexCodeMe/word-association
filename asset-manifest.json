@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-word-quiz/static/css/main.71f75043.css",
+    "main.js": "/react-word-quiz/static/js/main.8e88cf03.js",
+    "index.html": "/react-word-quiz/index.html",
+    "main.71f75043.css.map": "/react-word-quiz/static/css/main.71f75043.css.map",
+    "main.8e88cf03.js.map": "/react-word-quiz/static/js/main.8e88cf03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f75043.css",
+    "static/js/main.8e88cf03.js"
+  ]
+}
